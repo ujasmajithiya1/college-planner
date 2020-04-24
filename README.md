@@ -3,8 +3,11 @@
 WCMC Group Project
 
 Ujas Majithya(17it048)
+
 Jigar Modi(17it055)
+
 Achint Parmar(17it063)
+
 Meet Parmar(17it064)
 
 ## Getting Started
