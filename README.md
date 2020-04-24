@@ -1,7 +1,10 @@
-# basic_app
+# College Planner
 
-A new Flutter application.
-
+WCMC Group Project
+Ujas Majithya(17it048)
+Jigar Modi(17it055)
+Achint Parmar(17it063)
+Meet Parmar(17it064)
 ## Getting Started
 
 This project is a starting point for a Flutter application.
